@@ -16,7 +16,7 @@ Password Manager is a simple web application built with Flask that allows users 
 - **HTML/CSS**: HTML and CSS are used for the frontend design and layout.
 - **JavaScript**: JavaScript is used for client-side interactions and animations.
 - **Werkzeug**: Werkzeug is a WSGI utility library for Python, used for password hashing and authentication.
-- **Renderl**: Render is a cloud platform for serverless deployment and hosting. The application is hosted on Vercel.
+- **Renderl**: Render is a cloud platform for serverless deployment and hosting. The application is hosted on Render
  Access the application in your web browser at [`https://passwordmanager-11qx.onrender.com/`]
 
 ## Deployment
